@@ -1,5 +1,5 @@
 import React from 'react'
-import '..testimonals/testimonail.css'
+import './testimonail.css'
 const Testimonials = () => {
   return (
     <div className='d-flex mt-5 container'>
