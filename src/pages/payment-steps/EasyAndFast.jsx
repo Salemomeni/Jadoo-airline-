@@ -8,7 +8,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLeaf, faPaperPlane, faMap, faBuilding } from '@fortawesome/free-solid-svg-icons'
 import { faHeart } from '@fortawesome/free-regular-svg-icons'
 import './payment.css'
-import Card from './card'
+import Card from '../payment-steps/Card.jsx'
 
 const EasyAndFast = () => {
   const card = [
