@@ -1,6 +1,4 @@
 import React from 'react'
-import TextHeadings from '../../component/header-text/TextHeadings'
-import OfferCard from '../../component/cards/OfferCard'
 import './category.css'
 import DestinationCard from '../../component/cards/DestinationCard'
 

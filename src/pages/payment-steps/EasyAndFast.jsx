@@ -1,5 +1,4 @@
 import React from 'react'
-import Image from '../../assets/images/image.png'
 import logo from '../../assets/images/Group7.png'
 import payment from '../../assets/images/Group12.png'
 import airport from '../../assets/images/Group11.png'

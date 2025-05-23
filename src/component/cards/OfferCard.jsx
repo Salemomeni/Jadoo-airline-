@@ -1,6 +1,5 @@
 import React from 'react'
 import './card.css'
-import angle from '../../assets/images/Rectangle.png'
 const OfferCard = (proops) => {
     const{title,description,icon} = proops
   return (

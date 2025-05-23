@@ -1,19 +1,15 @@
 import React from 'react'
 import './home.css'
-import traveller from "../../assets/images/Traveller.png"
 import plane from '../../assets/images/plane.png'
 import play from '../../assets/images/PlayButton.png'
 import Button from '../../component/button/Button'
 import Category from '../category/Category'
 import Destination from '../destination/Destination'
-import Card from '../destination/card'
 import subPic from '../../assets/images/Group42Big.png'
 import subPic2 from '../../assets/images/Group42sm.png'
 import EasyAndFast from '../payment-steps/EasyAndFast'
 import Testimonials from '../testimonals/Testimonials'
 import Sponsors from '../../component/footers/Sponsors'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faEnvelope } from '@fortawesome/free-solid-svg-icons'
 import Footer from '../../component/footers/Footer'
 const Homepage = () => {
     return (
