@@ -1,0 +1,71 @@
+.sponsor-con{
+    display: flex;
+    height: 90px;
+    margin-bottom: 10%;
+}
+.sponsorDiv{
+    justify-content: center;
+    align-items: center;
+}
+.jadoo h1{
+    margin-top: -15px;
+}
+.jadoo p{
+    margin-top: 45px;
+font-size: 13px;
+ font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  color: #5E6282;
+}
+.footerCon{
+gap: 90px !important;
+margin-bottom: 90px;
+}
+.footerCon h3{
+    font-size: 21px;
+ font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  margin-bottom: 50px;
+}
+.footerCon li{
+    list-style-type: none;
+    margin-top: 5px;
+}
+.footerCon li a{
+    text-decoration: none;
+    color: #5E6282;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+.footerCon li a:hover{
+    color: black;
+}
+.icons div{
+    width: 51px;
+    height: 51px;
+    align-content: center;
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    border-radius: 50px;
+    box-shadow: 1px 1px 6px ;
+}
+.icons div:hover{
+    background-color:black;
+    color: white;
+}
+.socials h6{
+    color: #5E6282;
+    font-size: 21px;
+    font-weight: 500;
+     font-family: "Poppins", sans-serif;
+     margin: 30px 0px;
+}
+.copyright{
+    color: #5E6282;
+    font-size: 14px;
+    font-weight: 500;
+     font-family: "Poppins", sans-serif;
+     text-align: center;
+}

@@ -1,0 +1,137 @@
+.writeUp {
+    width: 630px;
+    height: 535px;
+    padding: 10px;
+    margin-left: 120px;
+    margin-top: 15%;
+}
+
+.writeUp h5 {
+    color: #DF6951;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+
+.writeUp h3 {
+    margin: 27px 0px;
+    font-size: 60px;
+    font-family: "Volkhov", serif;
+    font-weight: 700;
+    color: #181E4B;
+}
+
+.writeUp p {
+    font-size: 15px;
+}
+
+.div2 {
+    background: url(../../assets/images/Traveller.png);
+    width: 626px;
+    height: 626px;
+    background-position: left;
+    background-size: cover;
+    position: absolute;
+    margin-left: 45%;
+}
+.div2 .plane1{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    margin: 70px 0px 0px 135px;
+}
+.div2 p{
+     margin: 102px 0px 0px 540px;
+    position: absolute;
+    width: 50px;
+     overflow: hidden;
+    height: 70px;
+}
+.div2 p img{
+    width: 100px;
+    margin-left:-45px;
+   
+}
+.playLogo{
+    width: 75px;
+    margin-top: 17px;
+    margin-right: 5px;
+    transition: 0.5s;
+}
+.playLogo:hover{
+       transform: scale(1.1);
+    z-index:1;
+}
+.playLogo img{
+    width: 100%;
+}
+
+.subscribe{
+    width: 1170px;
+    height: 407px;
+    background-color: #DFD7F9;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+    /* border-bottom-left-radius: 10px; */
+    border-top-left-radius: 190px;
+    margin-bottom: 80px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.subscribe .img{
+    display: flex;
+    width: 244px;
+    height: 300px;
+    margin: 0px 0px 0px 900px;
+    position: relative;
+}
+.subscribe .img2{
+    display: flex;
+    width: 361px;
+    height: 280px;
+    margin: -140px 0px 0px -770px;
+    position:relative;
+
+}
+.subsription-content h1{
+    font-size: 34px;
+     font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    color: #5E6282;
+    /* padding: 0px 70px 0px 70px; */
+    margin-top: -89px;
+    width: 859px;
+    margin-top: 10px;
+    
+
+ }
+.subsription-content{
+    align-items: center !important;
+    justify-content: center !important;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+}
+.sub-mail input{
+    width: 421px;
+    height: 68px;
+    border: none;
+    border-radius: 13px;
+}
+.sub-mail input:focus{
+    outline: none;
+}
+.sub-mail button{
+    background-color: #ff8b6b;
+    color: white;
+    width: 160px;
+    height: 68px;
+    border: none;
+    border-radius: 14px;
+}
+.sub-mail{
+    margin-top: 90px;
+    margin-left: -100px;
+}

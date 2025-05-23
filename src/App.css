@@ -1,0 +1,20 @@
+.header{
+  margin: 0px 2px 2px 0.77% !important;
+  padding-top:30px;
+}
+.cont{
+  display: flex;
+  gap: 230px;
+}
+.brand img{
+  width: 90px;
+}
+.back{
+  background: url(../src/assets/images/background.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+
+}
+/* *{
+  overflow-x: hidden;
+} */

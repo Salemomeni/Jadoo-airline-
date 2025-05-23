@@ -1,0 +1,20 @@
+.cate h4 {
+    font-size: 18px;
+    color: #5E6282;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+}
+
+.cate h2{
+    font-size:50px;
+    color: #14183E;
+     font-family: "Volkhov", serif;
+    font-weight: 700;
+    margin-bottom: 5%;
+}
+.cate{
+    background:url(../../assets/images/Group.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-top: 5%;
+}
